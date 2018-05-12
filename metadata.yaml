@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5243
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Giacosa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25177#Tristi-Amori
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2008-04-26'
 gutenberg_type: Text
