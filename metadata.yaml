@@ -1,0 +1,29 @@
+_repo: Tristi-Amori_25177
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Giacosa, Giuseppe
+    alias: Giacosa, G. (Giuseppe)
+    birthdate: 1847
+    deathdate: 1906
+    gutenberg_agent_id: '5243'
+    url: http://www.gutenberg.org/2009/agents/5243
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Giacosa
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2008-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25177'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama'
+- !lcc 'PQ'
+title: Tristi Amori
+url: http://www.gutenberg.org/ebooks/25177
